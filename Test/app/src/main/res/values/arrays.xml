@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="visit_place_array">
+        <item>@string/xy_moutain</item>
+        <item>@string/xz_moutain</item>
+        <item>@string/xg_moutain</item>
+        <item>@string/xx_moutain</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="xy_moutain">小杨山</string>
+    <string name="xz_moutain">小詹山</string>
+    <string name="xg_moutain">小高山</string>
+    <string name="xx_moutain">小肖山</string>
+    <string name="ok">ok</string>
+    <string name="quxiao">取消</string>
+
+
+
+</resources>
