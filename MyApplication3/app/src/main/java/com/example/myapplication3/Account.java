@@ -1,4 +1,4 @@
-package com.example.activityapplication;
+package com.example.myapplication3;
 
 import android.os.Parcel;
 import android.os.Parcelable;

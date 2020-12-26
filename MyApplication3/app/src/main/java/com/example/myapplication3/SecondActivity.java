@@ -7,11 +7,15 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import org.litepal.LitePal;
+
+
 public class SecondActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.second_layout);
         Button button =findViewById(R.id.Button2);
         button.setOnClickListener(new View.OnClickListener() {
@@ -21,6 +25,7 @@ public class SecondActivity extends AppCompatActivity {
                 intent.putExtra("msg","data from SecondActivity");
                 setResult(RESULT_OK,intent);
                 finish();
+
             }
         });
     }
